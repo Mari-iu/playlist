@@ -25,6 +25,7 @@ console.log("Hola Git");
 - Hello - Billie Eilish 
 - Blinding Lights - The Weekend
 - Bohemian Rhapsody - Queen
+- Judas - Lady Gaga
 
 ## Reggaeton
 - 6 AM - Maluma 
